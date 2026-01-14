@@ -1,12 +1,5 @@
- _______  _______           ______     ______            ______   ______           
-(  ____ \(  ____ )|\     /|(  __  \   (  ___ \ |\     /|(  __  \ (  __  \ |\     /|
-| (    \/| (    )|| )   ( || (  \  )  | (   ) )| )   ( || (  \  )| (  \  )( \   / )
-| |      | (____)|| |   | || |   ) |  | (__/ / | |   | || |   ) || |   ) | \ (_) / 
-| |      |     __)| |   | || |   | |  |  __ (  | |   | || |   | || |   | |  \   /  
-| |      | (\ (   | |   | || |   ) |  | (  \ \ | |   | || |   ) || |   ) |   ) (   
-| (____/\| ) \ \__| (___) || (__/  )  | )___) )| (___) || (__/  )| (__/  )   | |   
-(_______/|/   \__/(_______)(______/   |/ \___/ (_______)(______/ (______/    \_/   
-                                                                                   
+# Prompt
+We are excited to have you work on this project. You will complete an enhancement by creating the CRUD (create read update and delete) to the CrudBuddy Web API. The Web API will be consumed by a frontend and eventually be part of a larger project. Please complete this enhancement as if it is an actual feature request. 
 
 # CrudBuddy
 An opportunity to assess a candidate's working ability in a .NET environment.
