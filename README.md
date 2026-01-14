@@ -1,5 +1,5 @@
 # Prompt
-We are excited to have you work on this project. You will complete an enhancement by creating the CRUD (create read update and delete) to the CrudBuddy Web API. The Web API will be consumed by a frontend and eventually be part of a larger project. Please complete this enhancement as if it is an actual feature request. 
+We are excited to have you work on this project. You will complete an enhancement by creating the CRUD (create read update and delete) to the CrudBuddy Web API. The Web API will be consumed by a frontend and eventually be part of a larger project. Please complete this enhancement as if it is an actual feature. <b>The code base is in the develop branch of the project.</b>
 
 # CrudBuddy
 An opportunity to assess a candidate's working ability in a .NET environment.
