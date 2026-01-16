@@ -6,7 +6,7 @@ var builder = WebApplication.CreateBuilder(args);
 //db connection string
 var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
 
-//db contex
+//registered db context
 builder.Services.AddSqlite<ProductsContext>(connectionString);
 
 // Add services to the container.
