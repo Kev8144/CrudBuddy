@@ -1,4 +1,13 @@
+using CrudBuddy.API.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
+
+//db connection string
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+
+//db contex
+builder.Services.AddSqlite<ProductsContext>(connectionString);
 
 // Add services to the container.
 
