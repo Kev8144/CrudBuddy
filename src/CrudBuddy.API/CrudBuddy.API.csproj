@@ -20,9 +20,6 @@
     </PackageReference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Data\" />
-  </ItemGroup>
 
   <ItemGroup>
     <None Update="Data\products.db">
